@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lixar.Azure", "Lixar.Azure\Lixar.Azure.csproj", "{5E714592-C7A9-4A5C-9290-625EAECBC498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lixar.Azure.Tests", "Lixar.Azure.Tests\Lixar.Azure.Tests.csproj", "{FF99917F-7E15-4940-9D9C-678EA2CE5EFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FBE2E702-0F66-4826-8FC4-9B9992770189}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.md = LICENSE.md
+		LICENSE.txt = LICENSE.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E714592-C7A9-4A5C-9290-625EAECBC498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E714592-C7A9-4A5C-9290-625EAECBC498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E714592-C7A9-4A5C-9290-625EAECBC498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E714592-C7A9-4A5C-9290-625EAECBC498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF99917F-7E15-4940-9D9C-678EA2CE5EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF99917F-7E15-4940-9D9C-678EA2CE5EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF99917F-7E15-4940-9D9C-678EA2CE5EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF99917F-7E15-4940-9D9C-678EA2CE5EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
